@@ -1,3 +1,4 @@
+```mermaid
 flowchart TD
   P[PRINCIPLES - mental models]
   R[ROUTINES - daily structure]
@@ -16,3 +17,4 @@ flowchart TD
   IR --> INT
   RW --> INT
   INT --> REC
+```
