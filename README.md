@@ -1,99 +1,138 @@
-# Mako Handling & Reactivity Plan
+# Mako Handling & Reactivity System
 
-This repository contains a **handler-level operating system** for managing Mako’s selective reactivity, fixation, territorial sound triggers, and arousal patterns.
+This repository contains a **handler-focused operating system** for managing Mako’s selective reactivity, fixation, sound triggers, and arousal.
 
 This is not a generic training plan.
-It is a **decision-transfer and state-management system** designed for a confident, high-threshold dog.
+It is a **timing- and wording-sensitive system** built for real-world use.
 
 ---
 
-## Core idea
+## How to use this repo (important)
 
-Mako’s reactivity is not fear-based.
+There is **one live execution context** and **multiple supporting contexts**.
 
-It arises when:
-- arousal increases
-- responsibility shifts to him
-- environmental triggers demand interpretation
-
-This system prevents that shift by:
-- removing decision-making opportunities
-- prioritizing movement over confrontation
-- separating training, management, and recovery contexts
+If you mix them, the system degrades.
 
 ---
 
-## Repository structure and how to use it
+## Core files (start here)
 
-Each top-level section serves a **distinct purpose** and should not be mixed with the others.
+### `HANDBOOK.md`
+**Primary operational document**
 
-### `principles/`
-**Why the system works**
+- exact cue wording
+- timing rules
+- hot-zone protocol
+- intervention usage
+- what to do *in the moment*
 
-- Mental models
-- Responsibility transfer
-- Context vs arousal
-- Cue density rules
-
-Read occasionally to recalibrate mindset.
-
----
-
-### `interventions/`
-**What to do in real time**
-
-- Intervention ladder
-- Fixation handling
-- Sound-trigger handling
-- Marking rules
-- Off-leash policy
-
-Used **during live situations**.
+If you only read one file regularly, it’s this one.
 
 ---
 
-### `routines/`
-**What we practice daily**
+### `PRINCIPLES.md`
+**Mental models only**
 
-- Morning decompression walk
-- Afternoon structured walk
-- Mid-day training session
-- Backyard protocol
+- why this is not fear-based
+- responsibility transfer
+- management vs training
+- cue density rules
 
-These are scripted, repeatable activities.
+Read to recalibrate mindset, not during walks.
 
 ---
 
-### `recovery/`
-**What to do after arousal spikes**
+### `RECOVERY.md`
+**After-action handling**
 
-- Post-trigger recovery
-- Indoor reset
-- When (and when not) to crate
+- post-trigger recovery
+- indoor reset
+- when (and when not) to crate
 
 Used after difficult moments to restore baseline.
 
 ---
 
-### `sound_training/`
-**Proactive nervous-system retraining**
+### `APPENDIX.md`
+**Quick reference**
 
-- Stepwise sound calibration
-- Dog barking sound training
-- Doorbell training
+- intervention ladder
+- fixation rule
+- core cues (verbatim)
+- terminology
 
-⚠️ Sound training is **never mixed** with real-world trigger handling.
-It is done in controlled sessions, away from actual triggers.
+Backup reference when you need a reminder.
 
 ---
 
-### `appendices/`
-**Usability helpers**
+## Factored sections (use deliberately)
 
-- Quick reference
-- Terminology
+These sections exist to **support** the handbook, not replace it.
 
-Start with `appendices/quick_reference.md` for daily use.
+---
+
+### `interventions/`
+**What to do during real-world events**
+
+- intervention ladder (details)
+- fixation handling (expanded)
+- marking rules
+- off-leash policy
+
+These are applied **live**, but explained here in depth.
+
+---
+
+### `routines/`
+**What is practiced daily**
+
+- morning decompression walk
+- afternoon structured walk
+- mid-day training session
+- backyard protocol
+
+Routines reduce decision pressure later.
+They are not proofing sessions.
+
+---
+
+### `sound_training/`
+**Offline nervous-system shaping**
+
+- stepwise calibration
+- dog barking sound work
+- doorbell training
+
+⚠️ Sound training is **never mixed** with real-world triggers.
+It is done in controlled sessions only.
+
+The goal is **faster recovery**, not silence.
+
+---
+
+## System flow (plain language)
+
+- Principles inform routines
+- Routines govern daily life
+- Real-world events occur
+- Interventions are used *if needed*
+- Recovery restores baseline
+- Sound training operates offline and reduces future load
+
+There is **one execution path**.
+Everything else shapes how heavy that path feels.
+
+---
+
+## Boundary rules (do not violate)
+
+- Do not train during real triggers
+- Do not correct sound-startle
+- Do not stack cues under arousal
+- Do not ask for obedience during recovery
+- Do not mix sound training with walks
+
+Clarity between contexts is what reduces reactivity.
 
 ---
 
@@ -105,4 +144,4 @@ Training happens **before** problems.
 Interventions happen **during** problems.
 Recovery happens **after** problems.
 
-Keeping these separate is what makes the system work.
+Keep those separate.
