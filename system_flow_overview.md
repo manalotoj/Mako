@@ -1,24 +1,18 @@
-## System Flow Overview
-
-```mermaid
 flowchart TD
-    P[PRINCIPLES<br/>(mental models)]
-    R[ROUTINES<br/>(daily structure)]
+  P[PRINCIPLES - mental models]
+  R[ROUTINES - daily structure]
 
-    ST[SOUND TRAINING<br/>(controlled sessions)]
-    RW[REAL WORLD EVENTS<br/>(walks · yard · door)]
+  ST[SOUND TRAINING - controlled sessions]
+  RW[REAL WORLD EVENTS - walks, yard, door]
 
-    IR[IMPROVED REFLEX PATHS<br/>(faster recovery)]
-    INT[INTERVENTIONS<br/>(ladder · movement)]
-    REC[RECOVERY<br/>(reset baseline)]
+  IR[IMPROVED REFLEX PATHS - faster recovery]
+  INT[INTERVENTIONS - ladder, movement]
+  REC[RECOVERY - reset baseline]
 
-    P --> R
-
-    R --> ST
-    ST --> IR
-
-    R --> RW
-    IR --> INT
-    RW --> INT
-
-    INT --> REC
+  P --> R
+  R --> ST
+  ST --> IR
+  R --> RW
+  IR --> INT
+  RW --> INT
+  INT --> REC
