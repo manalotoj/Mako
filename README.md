@@ -5,6 +5,12 @@ This repository contains a **handler-focused operating system** for managing Mak
 This is not a generic training plan.
 It is a **timing- and wording-sensitive system** built for real-world use.
 
+## Why this system exists
+
+This system did not come from theory or a training framework.
+It emerged from lived experience and repeated real-world constraints.
+
+The [STORYLINE.md](STORYLINE.md) explains the observations and decisions that shaped the operating system.
 ---
 
 ## How to use this repo (important)
