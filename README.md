@@ -77,7 +77,7 @@ These sections exist to **support** the handbook, not replace it.
 
 ---
 
-### [interventions/]('interventions/')
+### [interventions/](interventions/)
 **What to do during real-world events**
 
 - intervention ladder (details)
@@ -89,7 +89,7 @@ These are applied **live**, but explained here in depth.
 
 ---
 
-### [routines/]('routines/')
+### [routines/](routines/)
 **What is practiced daily**
 
 - morning decompression walk
@@ -102,7 +102,7 @@ They are not proofing sessions.
 
 ---
 
-### [sound_training/]('sound_training/')
+### [sound_training/](sound_training/)
 **Offline nervous-system shaping**
 
 - stepwise calibration
