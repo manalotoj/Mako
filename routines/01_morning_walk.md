@@ -4,8 +4,8 @@ Goal: lower baseline arousal and set rhythm.
 
 ## Pre-walk (5–7 min)
 - threshold pause
-- 2–3 sits → release
-- 1 down → release
+- 2–3 sits → verbal release (“ok”) or light leash pressure
+- 1 down → verbal release (“ok”) or light leash pressure
 - gentle direction changes
 
 Exit only when leash is loose and scanning stops.

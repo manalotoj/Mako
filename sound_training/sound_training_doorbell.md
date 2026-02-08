@@ -27,7 +27,7 @@ Before any doorbell sound:
 2. Turn
 3. Walk 6–10 steps away from door
 4. Pause
-5. Verbal release or food scatter
+5. verbal release (“ok”) or light leash pressure or food scatter
 
 Repeat daily until this pattern is automatic.
 
@@ -44,7 +44,7 @@ Repeat daily until this pattern is automatic.
 1. Doorbell sound
 2. “I got this”
 3. Turn and move away
-4. Pause → release
+4. Pause → verbal release (“ok”) or light leash pressure
 
 Do NOT wait for barking.
 
