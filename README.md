@@ -11,6 +11,7 @@ This system did not come from theory or a training framework.
 It emerged from lived experience and repeated real-world constraints.
 
 The [storyline.md](storyline.md) explains the observations and decisions that shaped the operating system.
+
 ---
 
 ## How to use this repo (important)
