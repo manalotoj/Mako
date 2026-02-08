@@ -27,7 +27,7 @@ Before any doorbell sound:
 2. Turn
 3. Walk 6–10 steps away from door
 4. Pause
-5. Release or food scatter
+5. Verbal release or food scatter
 
 Repeat daily until this pattern is automatic.
 

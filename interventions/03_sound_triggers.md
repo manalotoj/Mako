@@ -3,10 +3,10 @@
 Sound triggers are reflexive before cognition.
 
 ## Correct response
-1. “I got this”
-2. Turn away
-3. Move 3–10 steps
-4. Short but loose leash
+1. Turn away and initiate movement
+2. Get 1–3 steps of movement
+3. Say **“I got this”**
+4. Continue moving
 5. Resume only after body softens
 
 No corrections.

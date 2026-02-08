@@ -7,7 +7,7 @@ No casual off-leash freedom.
 - structured sequence:
   1. sit
   2. unleash
-  3. release cue
+  3. verbal release
   4. 2–5 minutes
   5. recall while engaged
   6. leash calmly

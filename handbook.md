@@ -45,6 +45,14 @@ May be paired with light leash pressure if needed.
 
 ---
 
+### “ok”
+- Verbal release cue
+- Used to end static behaviors (sit, down, place)
+- May be replaced by light leash pressure when appropriate
+- Not used under arousal
+
+---
+
 ### “sniff”
 - Permission marker
 - Used to:
