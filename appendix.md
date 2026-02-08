@@ -44,6 +44,17 @@ No third category.
   - granted at start of sniffing or after compliance
   - not a formal obedience cue
 
+- **“eh eh”**
+  - mild early interruption
+  - paired with leash signal
+  - neutral tone
+
+- **“ok”**
+  - verbal release cue
+  - used to end static behaviors (sit, down, place)
+  - may be replaced by light leash pressure when appropriate
+  - not used under arousal
+
 ---
 
 ## Terminology
