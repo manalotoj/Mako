@@ -145,10 +145,10 @@ Fixation = stopping movement and locking attention, failing to disengage on firs
 ---
 
 ### First fixation
-- “I got this”
-- Step in
-- Turn body
-- Move away
+### First fixation
+- Move first (step in, turn, walk away)
+- Say **“I got this”** after movement starts
+- Continue session
 
 Continue session.
 
