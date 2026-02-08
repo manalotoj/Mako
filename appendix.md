@@ -39,6 +39,10 @@ No third category.
   - movement anchor
   - used to leave zones, end sniffing, re-engage
 
+- **“Mwko, come”**
+  - recall cue
+  - used to have him come back when off leash
+
 - **“sniff”**
   - permission marker
   - granted at start of sniffing or after compliance
