@@ -36,7 +36,7 @@ If you only read one file regularly, it’s this one.
 
 ---
 
-### `PRINCIPLES.md`
+### [principles.md](principles.md)
 **Mental models only**
 
 - why this is not fear-based
@@ -48,7 +48,7 @@ Read to recalibrate mindset, not during walks.
 
 ---
 
-### `RECOVERY.md`
+### [recovery.md](recovery.md)
 **After-action handling**
 
 - post-trigger recovery
@@ -59,7 +59,7 @@ Used after difficult moments to restore baseline.
 
 ---
 
-### `APPENDIX.md`
+### [appendix.md](appendix.md)
 **Quick reference**
 
 - intervention ladder
@@ -77,7 +77,7 @@ These sections exist to **support** the handbook, not replace it.
 
 ---
 
-### `interventions/`
+### [interventions/]('interventions/')
 **What to do during real-world events**
 
 - intervention ladder (details)
@@ -89,7 +89,7 @@ These are applied **live**, but explained here in depth.
 
 ---
 
-### `routines/`
+### [routines/]('routines/')
 **What is practiced daily**
 
 - morning decompression walk
@@ -102,7 +102,7 @@ They are not proofing sessions.
 
 ---
 
-### `sound_training/`
+### [sound_training/]('sound_training/')
 **Offline nervous-system shaping**
 
 - stepwise calibration
