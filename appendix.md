@@ -35,7 +35,7 @@ No third category.
   - used after movement begins
   - explanatory, not corrective
 
-- **“come Mako”**
+- **“let's go”**
   - movement anchor
   - used to leave zones, end sniffing, re-engage
 
