@@ -16,4 +16,4 @@ Exit only when leash is loose and scanning stops.
 - sniffing encouraged (permission-based)
 - low verbal density
 
-Single cue (“come Mako”) allowed if engagement drops.
+Single cue (“let's go”) allowed if engagement drops.
