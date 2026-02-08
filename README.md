@@ -10,7 +10,7 @@ It is a **timing- and wording-sensitive system** built for real-world use.
 This system did not come from theory or a training framework.
 It emerged from lived experience and repeated real-world constraints.
 
-The [STORYLINE.md](STORYLINE.md) explains the observations and decisions that shaped the operating system.
+The [storyline.md](storyline.md) explains the observations and decisions that shaped the operating system.
 ---
 
 ## How to use this repo (important)
