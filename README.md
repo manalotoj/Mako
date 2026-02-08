@@ -23,7 +23,7 @@ If you mix them, the system degrades.
 
 ## Core files (start here)
 
-### `[handbook.md](handbook.md)`
+### [handbook.md](handbook.md)
 **Primary operational document**
 
 - exact cue wording
