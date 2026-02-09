@@ -35,7 +35,7 @@ Do not substitute synonyms.
 
 ---
 
-### “come Mako”
+### “let’s go”
 - Movement anchor
 - Ends sniffing
 - Exits zones
@@ -70,6 +70,28 @@ May be paired with light leash pressure if needed.
 
 ---
 
+### “yes”
+- Reinforcement marker
+- Marks correct decisions
+- Used to reinforce:
+  - voluntary disengagement
+  - choosing the handler over a trigger
+  - breaking fixation without intervention
+
+“Yes” confirms clarity without increasing arousal.
+
+---
+
+### “no”
+- Conditioned punisher
+- Marks a crossed boundary
+- Used only when escalation reaches the **red zone**
+- Assertive, calm, final
+
+“No” marks a **decision**, not an emotion.
+
+---
+
 ## 2. Timing rules (non-negotiable)
 
 These rules apply to **all real-world handling**.
@@ -97,9 +119,108 @@ These rules apply to **all real-world handling**.
 
 ---
 
-## 3. Intervention ladder (live use)
+## 3. Zones of arousal and control
 
-Used in **compressed environments** and early escalation.
+Mako’s behavior is managed using three operational zones.  
+These zones describe **decision state**, not emotion.
+
+---
+
+### Green zone — engaged and available
+
+**Definition**
+- responsive to handler
+- able to disengage voluntarily
+- decisions remain flexible
+
+**Handler role**
+- guide
+- reinforce
+- allow autonomy within rules
+
+**Allowed cues**
+- “yes”
+- “sniff”
+- “let’s go”
+- “ok”
+
+**Goal**
+- reinforce good choices
+- maintain low baseline arousal
+
+---
+
+### Yellow zone — fixation forming
+
+**Definition**
+- attention narrows
+- scanning or fixation appears
+- decision is forming but not yet executed
+
+**Handler role**
+- interrupt
+- transfer responsibility
+- prevent escalation
+
+**Primary tools**
+- movement
+- leash pressure
+- direction change
+
+**Allowed cues**
+- “I got this” (after movement begins)
+- “let’s go”
+- “eh eh” (early interruption)
+
+**Not allowed**
+- obedience commands
+- reassurance
+- punishment markers
+
+**Goal**
+- disengage early
+- return to green zone
+
+---
+
+### Red zone — loss of self-control
+
+**Definition**
+- fixation converts into forward drive
+- commitment to action occurs
+- handler influence is overridden
+
+This state should be **rare**.
+
+**Handler role**
+- stop the behavior
+- mark the boundary
+- end the situation
+
+**Primary tools**
+- decisive physical interruption
+- immediate extraction
+
+**Allowed cue**
+- **“no”** (single, assertive marker)
+
+**Not allowed**
+- repeated cues
+- negotiation
+- obedience requests
+
+**Goal**
+- mark the decision as unacceptable
+- prevent repetition
+- move immediately to recovery
+
+If red zone handling becomes frequent, upstream prevention has failed and must be adjusted.
+
+---
+
+## 4. Intervention ladder (live use)
+
+Used in **compressed environments** and early escalation (yellow zone).
 
 ### Level 1
 - Leash signal + “eh eh”
@@ -125,7 +246,7 @@ Do not continue escalating after reset.
 
 ---
 
-## 4. Sudden trigger choreography (sound / surprise)
+## 5. Sudden trigger choreography (sound / surprise)
 
 This is the **most important sequence** in the system.
 
@@ -145,7 +266,7 @@ Do **not**:
 
 ---
 
-## 5. Fixation handling (live)
+## 6. Fixation handling (live — yellow zone)
 
 ### Definition
 Fixation = stopping movement and locking attention, failing to disengage on first interruption.
@@ -153,12 +274,9 @@ Fixation = stopping movement and locking attention, failing to disengage on firs
 ---
 
 ### First fixation
-### First fixation
 - Move first (step in, turn, walk away)
 - Say **“I got this”** after movement starts
 - Continue session
-
-Continue session.
 
 ---
 
@@ -170,7 +288,24 @@ No third category.
 
 ---
 
-## 6. Sniffing rules (important)
+## 7. Red zone handling (escalation)
+
+Red zone handling is about **preventing repetition**, not expressing displeasure.
+
+### Choreography
+1. Apply decisive physical interruption
+2. Mark the decision with **“no”**
+3. Immediately extract and create distance
+4. Do not ask for obedience
+5. Do not repeat the cue
+6. Move into recovery protocol
+
+“No” marks the decision.  
+Movement ends the situation.
+
+---
+
+## 8. Sniffing rules (important)
 
 Sniffing is a **tool**, not a right.
 
@@ -189,7 +324,7 @@ Sniffing is a **tool**, not a right.
 ---
 
 ### Ending sniffing
-- Say **“come Mako”**
+- Say **“let’s go”**
 - Light leash pressure if needed
 - He must disengage cleanly
 
@@ -197,7 +332,7 @@ Do not negotiate.
 
 ---
 
-## 7. Immediate zone protocol (outside the house)
+## 9. Immediate zone protocol (outside the house)
 
 This is the highest-risk area.
 
@@ -212,7 +347,7 @@ Goal: **extract from territory**, not perfect behavior.
 
 ---
 
-## 8. Walk philosophy (live)
+## 10. Walk philosophy (live)
 
 - Forward position allowed
 - Loose leash required
@@ -226,7 +361,7 @@ Direction changes and 180s are acceptable for:
 
 ---
 
-## 9. Relationship to sound training
+## 11. Relationship to sound training
 
 Sound training:
 - is offline
@@ -240,13 +375,14 @@ During real-world events:
 
 ---
 
-## 10. Success markers (what progress looks like)
+## 12. Success markers (what progress looks like)
 
 - Faster disengagement
 - Shorter fixation
-- Less pressure required
+- Fewer yellow-zone interventions
+- Rare red-zone events
 - Quicker recovery indoors
-- Fewer interventions needed
+- Less pressure required overall
 
 Neutrality comes last.  
 **Recovery speed comes first.**
