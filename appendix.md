@@ -39,7 +39,7 @@ No third category.
   - movement anchor
   - used to leave zones, end sniffing, re-engage
 
-- **“Mwko, come”**
+- **“Mako, come”**
   - recall cue
   - used to have him come back when off leash
 
