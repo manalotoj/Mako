@@ -218,6 +218,18 @@ If red zone handling becomes frequent, upstream prevention has failed and must b
 
 ---
 
+### Extraction geometry
+
+In the red zone, extraction shape depends on environment.
+
+- If turning away reduces exposure, execute a 180.
+- If turning away increases exposure or conflict, continue forward and clear the area.
+
+Both are valid.
+The goal is distance, not direction.
+
+---
+
 ## 4. Intervention ladder (live use)
 
 Used in **compressed environments** and early escalation (yellow zone).
